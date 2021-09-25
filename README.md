@@ -14,11 +14,11 @@ In this repository, I wrote a simple C++ application with some implementations o
     ```
     $ g++ -o Dynamic_Programming DynamicProgramming.cpp DynamicProgramming.h main.cpp
     ```
-5.(Only if you have a Linux system) enter the next command in order to make the executable accessible:
+5. (Only if you have a Linux system) enter the next command in order to make the executable accessible:
     ```
     $ chmod +x Dynamic_Programming
     ```
-6.Run the program:
+6. Run the program:
     ```
     $ ./Dynamic_Programming
     ```
