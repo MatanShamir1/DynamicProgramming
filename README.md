@@ -5,4 +5,17 @@ In this repository, I wrote a simple C++ application with some implementations o
 2. Minimum squares to combine a given integer
 ## What should I do to run the app?
 1. Install Git
-2. Open Git Bash and write:
+2. Open Git Bash and clone this repository:
+    ```
+    $ git clone https://github.com/MatanShamir1/DynamicProgramming.git
+    ```
+3. Enter the repository directory with git bash
+4. Write the following command in order to compile the program and write the output to an executable file named Dynamic_Programming.exe
+    ```
+    $ gcc -o Dynamic_Programming DynamicProgramming.cpp DynamicProgramming.h main.cpp
+    ```
+5.Run the program:
+    ```
+    $ ./Dynamic_Programming
+    ```
+The menu will be opened and guide you for the rest of the procedure.
