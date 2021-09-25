@@ -6,6 +6,7 @@ In this repository, I wrote a simple C++ application with some implementations o
 ### What should I do to run the app?
 1. Install Git and MinGW Compiler on your OS.
 2. Open Git Bash and clone this repository:
+3. 
     ```
     $ git clone https://github.com/MatanShamir1/DynamicProgramming.git
     ```
@@ -15,10 +16,12 @@ In this repository, I wrote a simple C++ application with some implementations o
     $ g++ -o Dynamic_Programming DynamicProgramming.cpp DynamicProgramming.h main.cpp
     ```
 5.(Only if you have a Linux system) enter the next command in order to make the executable accessible:
+
     ```
     $ chmod +x Dynamic_Programming
     ```
 6.Run the program:
+
     ```
     $ ./Dynamic_Programming
     ```
