@@ -4,5 +4,6 @@
 
 #ifndef MINSQUARES_DYNAMICPROGRAMMING_H
 #define MINSQUARES_DYNAMICPROGRAMMING_H
+#include <string>
 std::string minSquares (int num);
 #endif //MINSQUARES_DYNAMICPROGRAMMING_H
